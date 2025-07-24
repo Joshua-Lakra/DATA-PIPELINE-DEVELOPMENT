@@ -1,0 +1,11 @@
+age,income,gender,city,target
+25,50000,Male,New York,1
+30,60000,Female,Los Angeles,0
+45,80000,Male,Chicago,1
+35,70000,Female,Houston,0
+40,,Female,New York,1
+28,55000,,Chicago,0
+50,90000,Male,,1
+38,72000,Female,Los Angeles,0
+42,68000,,Houston,1
+29,,Male,Chicago,0
